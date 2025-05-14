@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 [
@@ -13,3 +14,20 @@
     }
   ]
   
+=======
+
+
+[
+    {
+      "name": "Invoice Generator",
+      "tech": ["Django", "React", "PostgreSQL"],
+      "description": "React-based app for personalized invoices with real-time API integration."
+    },
+    {
+      "name": "Face-Eye Detection",
+      "tech": ["Python", "OpenCV", "TensorFlow"],
+      "description": "Real-time detection system with 90% accuracy using CNN models."
+    }
+  ]
+  
+>>>>>>> 36f2bbc9e4bc79b214d46178e47db780ee0097eb
